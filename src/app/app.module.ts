@@ -20,7 +20,7 @@ import {MatCardModule} from '@angular/material/card';
     LiveListComponent
   ],
   imports: [
-    HttpClienModule,
+    HttpClientModule,
     BrowserModule,
     AppRoutingModule,
     BrowserAnimationsModule,
